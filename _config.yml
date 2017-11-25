@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
 title: CLEF eHealth
 description: This website contains information about the CLEF eHealth Evaluation Lab
-github:
-  is_project_page: false
-github:
-  personal_header: true
+github:is_project_page: false
+github:personal_header: true
