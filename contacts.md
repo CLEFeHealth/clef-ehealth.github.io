@@ -4,7 +4,7 @@ Task 1: Aurélie Névéol (aurelie.neveol<AT>limsi.fr)
   
 Task 2: Evangelos Kanoulas (e.kanoulas<AT>uva.nl)
   
-Task 3: on the [CLEF eHealth Slack](clefehealth.slack.com) (email g.zuccon<AT>qut.edu.au if you are having difficulties signing in)
+Task 3: on the [CLEF eHealth Slack](clefehealth.slack.com) (email g.zuccon < AT > qut.edu.au if you are having difficulties signing in)
 
 
 ### Mailing lists: 
