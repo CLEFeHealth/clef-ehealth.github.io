@@ -1,4 +1,4 @@
-## Contact Information: 
+### Contact Information: 
 
 Task 1: Aurélie Névéol (aurelie.neveol<AT>limsi.fr)
   
@@ -6,9 +6,8 @@ Task 2: Evangelos Kanoulas (e.kanoulas<AT>uva.nl)
   
 Task 3: on the [CLEF eHealth Slack](clefehealth.slack.com) (email g.zuccon<AT>qut.edu.au if you are having difficulties signing in)
 
-------------------------------------
 
-## Mailing lists: 
+### Mailing lists: 
 
 General information about CLEF eHealth lab: [https://groups.google.com/forum/#!forum/clef-ehealth-evaluation-lab-information](https://groups.google.com/forum/#!forum/clef-ehealth-evaluation-lab-information)
 
