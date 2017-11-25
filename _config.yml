@@ -3,3 +3,4 @@ title: CLEF eHealth
 description: This website contains information about the CLEF eHealth Evaluation Lab
 github:
   is_project_page: false
+  personal_header: true
